@@ -10,7 +10,8 @@
 
 4* bug da moeda corrididos
 
-
+Demonstração:
+https://www.youtube.com/watch?v=XcDRd15idr8
 
       AVISO
 
@@ -37,7 +38,8 @@ Version 0.0.4 (BETA)
 
 4* Currency bug run
 
-
+Preview:
+https://www.youtube.com/watch?v=XcDRd15idr8
 
       WARNING
 
