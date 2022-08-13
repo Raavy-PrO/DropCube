@@ -3,8 +3,11 @@
 !!Novidades!!
 
 1* moedas adicionadas
+
 2* record adicionado
+
 3* menu corrigido
+
 4* bug da moeda corrididos
 
 
@@ -27,8 +30,11 @@ Version 0.0.4 (BETA)
 !!News!!
 
 1* added coins
+
 2* record added
+
 3* menu corrected
+
 4* Currency bug run
 
 
